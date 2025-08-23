@@ -5,7 +5,7 @@ Two folders are available one with the inclusion of the frist trained neural net
 The gnina and gnina2 folder is divided into multiple segments to comply with GitHub size limitations. 
 After downloading all parts, they can be merged using: 
 cat gnina.part.* > gnina.zip.
-cat gnina2.part.* > gnina2.zip
+cat gnina_second.part.* > gnina_second.zip
 
 
 
