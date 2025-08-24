@@ -1,0 +1,10 @@
+1AID : 56922 ms (without halogen), RMSD = 7.50315
+1BGQ : 38837 ms (without halogen), RMSD = 4.83562
+1D4J : 119812 ms (without halogen), RMSD = 12.7278
+1E4H : 38909 ms (without halogen), RMSD = inf
+1E66 : 58927 ms (without halogen), RMSD = 7.00302
+1AID : 65998 ms (with halogen), RMSD = 10.4419
+1BGQ : 49008 ms (with halogen), RMSD = 8.98477
+1D4J : 131810 ms (with halogen), RMSD = 11.6694
+1E4H : 55301 ms (with halogen), RMSD = inf
+1E66 : 79593 ms (with halogen), RMSD = 7.00302
